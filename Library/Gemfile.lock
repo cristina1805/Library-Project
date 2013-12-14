@@ -28,7 +28,11 @@ GEM
     arel (4.0.1)
     atomic (1.1.14)
     bcrypt-ruby (3.1.2)
+<<<<<<< HEAD
     bootstrap-sass (3.0.2.1)
+=======
+    bootstrap-sass (3.0.1.0)
+>>>>>>> 1e636d36cb7a376f599e788e49803880b46f900e
       sass (~> 3.2)
     builder (3.1.4)
     coffee-rails (4.0.1)
@@ -38,7 +42,11 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.3)
+<<<<<<< HEAD
     devise (3.2.1)
+=======
+    devise (3.2.2)
+>>>>>>> 1e636d36cb7a376f599e788e49803880b46f900e
       bcrypt-ruby (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 3.2.6, < 5)

@@ -26,4 +26,8 @@ Library::Application.configure do
   # This option may cause significant delays in view rendering with a large
   # number of complex assets.
   config.assets.debug = true
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1e636d36cb7a376f599e788e49803880b46f900e
 end

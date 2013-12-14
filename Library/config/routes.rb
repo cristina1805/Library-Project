@@ -1,9 +1,15 @@
 Library::Application.routes.draw do
+<<<<<<< HEAD
  
   devise_for :users
  root to: "home_page#home"
  match 'content', to:'home_page#content', via: :get
 
+=======
+ root to: 'home_page#home'
+
+ match 'home', to: 'home_page#content'
+>>>>>>> 1e636d36cb7a376f599e788e49803880b46f900e
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
